@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Shield background -->
+  <path d="M32 4 L56 16 L56 32 C56 48 44 56 32 60 C20 56 8 48 8 32 L8 16 Z" fill="#4285f4" />
+  
+  <!-- Shield inner -->
+  <path d="M32 8 L52 18 L52 32 C52 46 42 52 32 56 C22 52 12 46 12 32 L12 18 Z" fill="#ffffff" />
+  
+  <!-- Phishing hook -->
+  <path d="M32 16 C26 16 22 20 22 26 L22 36 C22 38 24 40 26 40 L38 40 C40 40 42 38 42 36 L42 26" fill="none" stroke="#ff5252" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Hook end -->
+  <path d="M42 26 C42 22 38 20 34 22 C30 24 30 30 34 32 C38 34 42 32 42 28" fill="none" stroke="#ff5252" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Slash through hook (blocked) -->
+  <line x1="20" y1="20" x2="44" y2="44" stroke="#ff5252" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Eye (vigilance) -->
+  <circle cx="32" cy="28" r="4" fill="#4285f4" />
+</svg>

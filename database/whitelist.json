@@ -1,0 +1,42 @@
+{
+    "trusted_domains": [
+        "google.com", "gmail.com", "youtube.com", "facebook.com", "instagram.com", "twitter.com", "linkedin.com",
+        "microsoft.com", "office.com", "live.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com",
+        "amazon.com", "netflix.com", "github.com", "stackoverflow.com", "reddit.com", "wikipedia.org",
+        "yahoo.com", "bing.com", "paypal.com", "ebay.com", "walmart.com", "target.com", "bestbuy.com",
+        "adobe.com", "dropbox.com", "spotify.com", "twitch.tv", "pinterest.com", "tumblr.com", "wordpress.com",
+        "blogger.com", "medium.com", "quora.com", "nytimes.com", "cnn.com", "bbc.com", "espn.com",
+        "imdb.com", "yelp.com", "tripadvisor.com", "booking.com", "expedia.com", "airbnb.com",
+        "uber.com", "lyft.com", "doordash.com", "grubhub.com", "ubereats.com", "instacart.com",
+        "chase.com", "bankofamerica.com", "wellsfargo.com", "citibank.com", "capitalone.com", "discover.com",
+        "americanexpress.com", "visa.com", "mastercard.com", "payoneer.com", "stripe.com", "square.com",
+        "shopify.com", "etsy.com", "wix.com", "squarespace.com", "godaddy.com", "namecheap.com",
+        "cloudflare.com", "aws.amazon.com", "azure.microsoft.com", "cloud.google.com", "digitalocean.com",
+        "heroku.com", "salesforce.com", "zoom.us", "slack.com", "discord.com", "teams.microsoft.com",
+        "skype.com", "whatsapp.com", "telegram.org", "signal.org", "viber.com", "line.me",
+        "tiktok.com", "snapchat.com", "vimeo.com", "dailymotion.com", "flickr.com", "imgur.com",
+        "giphy.com", "tenor.com", "unsplash.com", "pexels.com", "shutterstock.com", "adobe.stock.com"
+    ],
+    "trusted_banks": [
+        "chase.com", "bankofamerica.com", "wellsfargo.com", "citibank.com", "usbank.com", "pnc.com",
+        "capitalone.com", "tdbank.com", "bbt.com", "suntrust.com", "regions.com", "53.com", "mtb.com",
+        "citizensbank.com", "huntington.com", "key.com", "fnbo.com", "usaa.com", "navyfederal.org",
+        "discover.com", "ally.com", "schwab.com", "fidelity.com", "vanguard.com", "etrade.com",
+        "tdameritrade.com", "robinhood.com", "sofi.com", "chime.com", "simple.com", "hsbc.com",
+        "barclays.com", "santander.com", "scotiabank.com", "rbcroyalbank.com", "bmo.com", "cibc.com",
+        "lloydsbank.com", "halifax.co.uk", "natwest.com", "rbs.co.uk", "tsb.co.uk", "nationwide.co.uk",
+        "commbank.com.au", "anz.com", "nab.com.au", "westpac.com.au", "ing.com", "rabobank.com",
+        "bnpparibas.com", "societegenerale.com", "credit-agricole.com", "db.com", "unicredit.eu",
+        "intesasanpaolo.com", "mufg.jp", "mizuhobank.com", "smbc.co.jp", "icbc.com.cn", "ccb.com",
+        "abchina.com", "boc.cn", "hdfcbank.com", "icicibank.com", "axisbank.com", "sbi.co.in"
+    ],
+    "trusted_payment_services": [
+        "paypal.com", "venmo.com", "cashapp.com", "zelle.com", "stripe.com", "square.com",
+        "authorize.net", "worldpay.com", "adyen.com", "checkout.com", "braintreepayments.com",
+        "payoneer.com", "transferwise.com", "westernunion.com", "moneygram.com", "xoom.com",
+        "remitly.com", "revolut.com", "wise.com", "klarna.com", "afterpay.com", "affirm.com",
+        "sezzle.com", "quadpay.com", "clearpay.co.uk", "laybuy.com", "splitit.com", "amazonpay.com",
+        "googlepay.com", "apple.com/apple-pay", "samsung.com/pay", "visa.com", "mastercard.com",
+        "americanexpress.com", "discover.com", "jcb.co.jp", "unionpay.com", "alipay.com", "wechat.com/pay"
+    ]
+}

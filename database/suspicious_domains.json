@@ -1,0 +1,28 @@
+{
+    "suspicious_tlds": [
+        ".xyz", ".top", ".club", ".online", ".site", ".tk", ".ml", ".ga", ".cf", ".gq",
+        ".pw", ".cc", ".buzz", ".rest", ".biz", ".date", ".stream", ".review", ".country", ".download",
+        ".racing", ".faith", ".accountant", ".science", ".win", ".party", ".gdn", ".mom", ".xin", ".kim",
+        ".men", ".loan", ".download", ".racing", ".ren", ".bid", ".vip", ".rocks", ".click", ".link",
+        ".work", ".live", ".space", ".tech", ".uno", ".host", ".website", ".press", ".uno", ".webcam"
+    ],
+    "suspicious_keywords": [
+        "login", "signin", "verify", "verification", "secure", "account", "password", "banking", "update", "confirm",
+        "paypal", "amazon", "microsoft", "apple", "google", "facebook", "instagram", "security", "ebay", "netflix",
+        "linkedin", "twitter", "dropbox", "docusign", "bank", "chase", "wellsfargo", "citibank", "bankofamerica", "usbank",
+        "americanexpress", "amex", "visa", "mastercard", "discover", "creditcard", "payment", "billing", "invoice", "tax",
+        "irs", "government", "usps", "fedex", "ups", "dhl", "shipping", "track", "order", "purchase",
+        "support", "help", "service", "customer", "reset", "recover", "unlock", "limited", "suspended", "disabled",
+        "unusual", "activity", "alert", "warning", "important", "urgent", "immediate", "action", "required", "validate",
+        "authenticate", "authorize", "identity", "id", "ssn", "social", "security", "license", "passport", "document",
+        "upload", "scan", "photo", "selfie", "webcam", "camera", "verification", "code", "pin", "otp",
+        "2fa", "twofactor", "two-factor", "2-factor", "mfa", "multifactor", "multi-factor", "token", "access", "authorization"
+    ],
+    "url_shorteners": [
+        "bit.ly", "tinyurl.com", "t.co", "goo.gl", "is.gd", "cli.gs", "pic.gd", "DwarfURL.com",
+        "ow.ly", "snipurl.com", "moourl.com", "trunc.it", "snip.ly", "w3t.org", "yourls.org",
+        "prettylinkpro.com", "scrnch.me", "filoops.info", "vzturl.com", "qr.net", "1url.com",
+        "tweez.me", "v.gd", "tr.im", "link.zip.net", "curly.mk", "cutt.ly", "shorturl.at",
+        "tiny.cc", "short.to", "smallurl.co", "tgig.ir", "7ly.me", "adf.ly", "rebrand.ly"
+    ]
+}
